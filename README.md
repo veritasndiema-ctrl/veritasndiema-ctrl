@@ -2,7 +2,7 @@ Keith Ndiema
 
 Student Developer · Aspiring Quant & Data Scientist · Building AI for Africa's Markets
 
-I'm a first-year Computer Science student (as of June 2025) at Mbarara University of Science and Technology (MUST), Uganda — and a founder of three live AI/ML systems targeting real problems in African markets.
+I'm a first-year Computer Science student (as of June 2026) at Mbarara University of Science and Technology (MUST), Uganda — and a founder of three live AI/ML systems targeting real problems in African markets.
 My work sits at the intersection of machine learning, financial systems, and infrastructure intelligence — built for contexts where data is sparse, connectivity is limited, and the stakes are high.
 
 
