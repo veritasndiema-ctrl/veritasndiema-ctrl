@@ -1,16 +1,37 @@
-## Hi there 👋
+Keith Ndiema
+Student Developer · Aspiring Quant & Data Scientist · Building AI for Africa's Markets
+I'm a first-year Computer Science student at Mbarara University of Science and Technology (MUST), Uganda — and a founder of three live AI/ML systems targeting real problems in African markets.
+My work sits at the intersection of machine learning, financial systems, and infrastructure intelligence — built for contexts where data is sparse, connectivity is limited, and the stakes are high.
 
-<!--
-**veritasndiema-ctrl/veritasndiema-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+What I'm Building
+🏦 Vestora
+AI-powered investment intelligence platform for the Uganda Securities Exchange
+Real-time USE market data · Financial analytics dashboard · ML-driven insights for retail and institutional investors. The Bloomberg terminal Africa never had.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌾 AgriGuard
+ML-powered agricultural price forecasting + counterfeit detection with USSD integration
+XGBoost + Prophet ensemble forecasting · Isolation Forest anomaly detection · Africa's Talking USSD gateway · Built for smallholder farmers with no smartphone.
+
+🚦 Traffic Sentinel
+YOLOv8-based road safety and traffic analytics system
+Real-time vehicle detection · Incident classification · FastAPI backend · Chart.js dashboard · Government proposal submitted to Uganda's Ministry of ICT.
+Stack
+Code
+
+
+Background
+📍 From Kapchorwa, Uganda — Eastern Uganda highlands
+🎓 UCE at Namilyango College · UACE at Uganda Martyrs' SS Namugongo
+🌍 Languages: English · Kupsabiny · French · Spanish · German · Swahili (basic)
+🎯 Long-term: Research programs at EPFL or ETH Zurich
+
+
+Currently
+🔨 Building out Vestora's live data pipeline and financial dashboard
+📊 Preparing Bank of Uganda Hackathon 2026 submission
+📐 Going deep on mathematics — linear algebra, probability, optimization
+📖 Reading research at the intersection of ML and African financial markets
+Connect
+
+"The best infrastructure is invisible. The best intelligence is inevitable."
